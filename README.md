@@ -4,6 +4,7 @@ Anyone can use this as a study guide to understand Javascript at a basic level. 
 Includes the following concepts:
 <ul>
   <li>Declaring a Variable</li>
+  <li>String Indexing</li>
   <li>Calling a Function</li>
   <li>Comparison and Logical Operators</li>
   <li>Conditional Statements</li>
