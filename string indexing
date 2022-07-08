@@ -1,1 +1,9 @@
 You can access individual characters in a string by using the character's location in the string or its index.
+
+Characters within a string are indexed starting from 0, where the first character is at position 0, to n-1, 
+where the last character is at position n-1 (n represents the total number of characters within a string).
+
+Example: The character that will be printed to the JavaScript console is 'w'.
+
+var quote = "Stay awhile and listen!";
+console.log(quote[6]);
